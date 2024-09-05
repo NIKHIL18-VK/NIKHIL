@@ -11,5 +11,5 @@ variable "instance_type" {
   variable "key_name" {
      description = "nnn"
   type = string
-  default = "virginia"
+  default = "nik"
   }
